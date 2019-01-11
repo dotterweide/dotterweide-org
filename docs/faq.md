@@ -47,3 +47,10 @@ will add a code-of-conduct that explains the basic rules of participating.
 
 We aim at a simple FLOSS license that balances the request for anyone editing the project to contribute back, while allowing it to be
 linked as a library without much constraints on the hosting application. Thus LGPL v2.1+ is the most likely.
+
+## What about the funny name
+
+I wanted a name that was available as a GitHub organisation and that contains the acronym IDE. dotterweide is a German word denoting the
+[yellow willow](https://en.wikipedia.org/wiki/Willow) tree. I also thought to choose a rather short name that is relatively easy to
+pronounce for non-German speakers; the pronunciation is "dotter-why-de" ([Dotter](https://www.dict.cc/?s=Dotter),
+[Weide](https://www.dict.cc/?s=Weide)). The "logo" was derived from a [public domain CC0 photography](https://www.maxpixel.net/Pollard-Deciduous-Pollarded-Golden-Willow-Willow-3276541).
