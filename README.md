@@ -8,4 +8,4 @@ forum. We created a corresponding [Gitter channel](https://gitter.im/dotterweide
 to ask questions and to join.
 
 This `-org` repository contains mostly text documents about organising the project, while actual code is found in other repositories.
-The documents in this repository are covered the [CC BY 4.0 License](LICENSE).
+The documents in this repository are covered by the [CC BY 4.0 License](LICENSE).
