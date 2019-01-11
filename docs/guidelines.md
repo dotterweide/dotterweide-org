@@ -26,3 +26,9 @@ This document describes the general guidelines for code style, code organisation
   we should strife to include unit tests for all functionality.
 - all public API should be documented using [scaladoc](https://docs.scala-lang.org/style/scaladoc.html) notation. Private and
   internal API should be documented using single line (`//`) comments.
+
+## Process
+
+The development and thought process of code repositories should be documented in markdown files in respective `notes` directories.
+For general, diary-type of files, include the date in the name using `YYMMHH`, e.g. `Notes190112.md`. For thematic files, just
+use a simple name, e.g. `related.md`.
