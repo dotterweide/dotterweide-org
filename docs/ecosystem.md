@@ -51,6 +51,14 @@ The [scalameta](http://scalameta.org/) project is all about Scala tooling and th
 
 -------------------
 
+## Projects not reviewed yet
+
+A place to collect potentially interesting projects without having reviewed them yet:
+
+- [buntec/scalavista-server](https://github.com/buntec/scalavista-server) alternative language server with backends for vim and VS code.
+
+-------------------
+
 ## videos
 
 - [ScalaSphere](https://www.youtube.com/channel/UC2D5QYMoclw4fz8YWFgC4sg/videos) is a conference on Scala tooling. The YouTube channel
