@@ -56,6 +56,7 @@ The [scalameta](http://scalameta.org/) project is all about Scala tooling and th
 A place to collect potentially interesting projects without having reviewed them yet:
 
 - [buntec/scalavista-server](https://github.com/buntec/scalavista-server) alternative language server with backends for vim and VS code.
+- [tindzk/seed](https://github.com/tindzk/seed) alternative build tool that can produce bloop project files
 
 -------------------
 
