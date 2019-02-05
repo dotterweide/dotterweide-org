@@ -57,6 +57,8 @@ A place to collect potentially interesting projects without having reviewed them
 
 - [buntec/scalavista-server](https://github.com/buntec/scalavista-server) alternative language server with backends for vim and VS code.
 - [tindzk/seed](https://github.com/tindzk/seed) alternative build tool that can produce bloop project files
+- [FXMisc/RichTextFX](https://github.com/FXMisc/RichTextFX) JavaFX based editor, supporting variable fonts and font sizes
+- [bobbylight/RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) has a few whistles we could use such as code folding
 
 -------------------
 
