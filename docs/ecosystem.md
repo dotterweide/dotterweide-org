@@ -59,6 +59,7 @@ A place to collect potentially interesting projects without having reviewed them
 - [tindzk/seed](https://github.com/tindzk/seed) alternative build tool that can produce bloop project files
 - [FXMisc/RichTextFX](https://github.com/FXMisc/RichTextFX) JavaFX based editor, supporting variable fonts and font sizes
 - [bobbylight/RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) has a few whistles we could use such as code folding
+- [AVSystem/scex](https://github.com/AVSystem/scex) expression evaluating system, also using presentation compiler
 
 -------------------
 
