@@ -49,7 +49,7 @@ The [scalameta](http://scalameta.org/) project is all about Scala tooling and th
   the desktop. It has an editor component with several features such as inspection and error highlighting. It comes a number of toy languages
   it supports, so Scala support would need to be added. Fork: [Sciss/toyide](https://github.com/Sciss/toyide/).  
 
-## Couriser
+## Coursier
 
 - [coursier/coursier](https://github.com/coursier/coursier) is an artifact fetching and dependency resolution library. Unfortunately the API is not documented, nor is the single author responding to any tickets, so you pretty much left on your own with this. On the upside, a couple of tools rely on it.
 
